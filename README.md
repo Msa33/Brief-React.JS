@@ -21,7 +21,7 @@ Les difficueltés que j'ai rencontré lors de la réalisation de ce projet sont 
                               **********************************************************************
 # Capture du site
 
- ![Les produits](Feature.png) ![Pied de page Sésara](Footer.png) ![Bienvenue à Sésara Marcket](<Header et Hero.png>)
+ ![Bienvenue à Sésara Marcket](<Header et Hero.png>) ![Les produits](Feature.png) ![Pied de page Sésara](Footer.png) 
 
 # React + TypeScript + Vite
 
